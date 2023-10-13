@@ -1,0 +1,31 @@
+{
+  "name": "myblog",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@kangc/v-md-editor": "^2.3.17",
+    "axios": "^1.5.1",
+    "babel-plugin-prismjs": "^2.1.0",
+    "codemirror": "^6.0.1",
+    "element-plus": "^2.3.14",
+    "highlight.js": "^11.8.0",
+    "prismjs": "^1.29.0",
+    "tsparticles": "^2.12.0",
+    "tsparticles-slim": "^2.12.0",
+    "vite-plugin-prismjs": "^0.0.8",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.5",
+    "vue3-particles": "^2.12.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.2"
+  }
+}
